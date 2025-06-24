@@ -4,9 +4,11 @@
 
 <h2>🎯 À propos de moi</h2>
 
-- 🌱 Apprentissage : **je travaille à approfondir mes connaissances en Javascript**
+- 🌱 Apprentissage : **Je travaille à approfondir mes connaissances en Javascript**
 
 - 🎓 Formation(en cours) : **Je suis un parcours de formation pour être développeuse full stack Javascript et mobile**
+
+- 🤓 Acquis : **Développement front end**
   
 - 🚀 Actuellement : **Je travaille sur un projet de Dashboard pour asseoir mes connaissances en Javascript**
 
