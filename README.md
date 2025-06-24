@@ -12,7 +12,7 @@
   
 - 🚀 Actuellement : **Je travaille sur un projet de Dashboard pour asseoir mes connaissances en Javascript**
 
-- ✨Tous mes p’tits projets sont disponibles sur mon profil : [https://github.com/InesKeps](https://github.com/InesKeps)
+- ✨Tous mes p’tits projets web sont disponibles sur mon profil : [https://github.com/InesKeps](https://github.com/InesKeps)
 
 - 📫 Comment me contacter : **kepsuines@gmail.com**
 
