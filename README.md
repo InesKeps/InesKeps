@@ -2,15 +2,21 @@
 <h2 align="left">je suis une développeuse Javascript junior, passionnée du Web !</h2>
 <br>
 
-- 🌱 Actuellement : **je travaille à approfondir mes connaissances en Javascript**
+<h2>🎯 À propos de moi</h2>
+
+- 🌱 Apprentissage : **je travaille à approfondir mes connaissances en Javascript**
 
 - 🎓 Formation(en cours) : **Je suis un parcours de formation pour être développeuse full stack Javascript et mobile**
+  
+- 🚀 Actuellement : **Je travaille sur un projet de Dashboard pour asseoir mes connaissances en Javascript**
 
 - ✨Tous mes p’tits projets sont disponibles sur mon profil : [https://github.com/InesKeps](https://github.com/InesKeps)
 
 - 📫 Comment me contacter : **kepsuines@gmail.com**
 
-<h3 align="left">🚀Langues et outils :</h3>
+<br>
+
+<h2 align="left">🛠️ Technologies & Outils</h2>
 
 ###
 
