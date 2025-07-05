@@ -34,3 +34,5 @@
 <h2>👩‍💻 Hey, par ici! Jettons un p'tit coup d'oeil à mes travaux🤓</h2>
 
 - https://ineskeps.github.io/Site-portfolio
+- https://ineskeps.github.io/Site-Medinova
+- https://ineskeps.github.io/Site_Adex
