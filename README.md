@@ -2,7 +2,7 @@
 
 **Fullstack Developer · Available for remote freelance missions**
 
-I design and build web interfaces and REST APIs — from responsive landing pages to complete web applications. Currently working as a fullstack developer (internship) and open to freelance missions on the side.
+I design and build web interfaces and REST APIs — from responsive landing pages, data-heavy interfaces to complete web applications.
 
 ---
 
@@ -51,5 +51,5 @@ I design and build web interfaces and REST APIs — from responsive landing page
 
 ## 📫 Contact
 
-**Email:** kepsuines@gmail.com  
-**Available for:** remote freelance missions · UI integration · React components · REST APIs
+**Email:** ineskepsu@gmail.com  
+**Available for:** remote missions · UI integration · React components · REST APIs
